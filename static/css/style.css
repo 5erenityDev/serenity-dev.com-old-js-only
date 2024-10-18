@@ -60,3 +60,21 @@ p{
     padding: 30px;
     background-color: #3B303F; 
 }
+
+#social-button
+{
+    width: 20%;
+    
+}
+#social-button img
+{
+    width: 100%;
+}
+#social-content > li:hover{
+    opacity: 0.8;
+}
+
+#social-content > li{
+    display: inline-block;
+    vertical-align: middle;
+}
